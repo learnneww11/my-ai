@@ -59,7 +59,7 @@ export default function Header({clearChat}) {
               fontSize: "18px"
             }}
           >
-            Ana Santos ✨
+            Ayal ✨
           </h2>
   
           <p
