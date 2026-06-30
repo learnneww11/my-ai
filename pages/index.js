@@ -71,7 +71,7 @@ export default function Home() {
   
     setMessages([
       {
-        text: "Hi,Amiga😃 ",
+        text: "Hola,Amiga😃 ",
         sender: "ai",
         time: new Date().toLocaleTimeString([], { timeStyle: "short" })
       }
