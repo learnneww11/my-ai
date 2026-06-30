@@ -59,7 +59,7 @@ export default function Header({clearChat}) {
               fontSize: "18px"
             }}
           >
-            Ayal ✨
+            Ayla ✨
           </h2>
   
           <p
